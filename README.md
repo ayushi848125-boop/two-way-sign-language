@@ -11,12 +11,14 @@ Unlike traditional assistive solutions where the disabled individual must wear r
 
 <table>
   <tr>
-    <td><b>Top Perspective: Circuit Layout & Wiring</b></td>
-    <td><b>Side Perspective: ESP32 Integration</b></td>
+    <td><b>Top View: Wiring Setup</b></td>
+    <td><b>Side View: ESP32 Core</b></td>
+    <td><b>Alternative View: Circuit Layout</b></td>
   </tr>
   <tr>
-    <td><img src="glove_top.jpg" width="350" alt="Glove Top View"></td>
-    <td><img src="glove_side.jpg" width="350" alt="Glove Side View"></td>
+    <td><img src="glove1.jpeg" width="250" alt="Glove Top View"></td>
+    <td><img src="glove2.jpeg" width="250" alt="Glove Side View"></td>
+    <td><img src="glove3.jpeg" width="250" alt="Glove View 3"></td>
   </tr>
 </table>
 
